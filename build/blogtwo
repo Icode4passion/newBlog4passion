@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <link rel="stylesheet" href="/static/css/retro.css">
+    <link rel="icon" href="data:;base64,=">
+    
+</head>
+<body>               
+            
+                <!-- <li><a href="/about">About</a></li> -->
+              <a href="/blog">Blog</a> 
+                <!-- <li><a href="/contact">Contact</a></li> -->
+
+    
+    <h2>My Second Blog</h2>
+    <b></b>
+    <small> Published it Sunday, 23 February, 2020 </small>
+    <small> and belongs <em>general</em> category.</small>
+    <p>Here is some content for this blog. Written in Markdown.</p>
+<ul>
+<li>Bullet point 1</li>
+<li>Bullet point 2</li>
+<li>Bullet point 3</li>
+</ul>
+
+    
+</body>
+</html>
